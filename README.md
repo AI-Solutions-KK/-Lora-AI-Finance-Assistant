@@ -3,6 +3,8 @@
 # 🤖 Lora – AI Finance Assistant
 ### Enterprise-Grade RAG + Smart Knowledge System for Financial Institutions
 
+AI-powered finance assistant using verified knowledge base + RAG for accurate loan-related answers. -Lora, an AI finance assistant for Lora Finance company
+
 <div align="center">
 
 ![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)

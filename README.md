@@ -1,4 +1,17 @@
+---
+title: Lora Finance Chatbot
+emoji: 🐠
+colorFrom: red
+colorTo: gray
+sdk: static
+pinned: false
+license: apache-2.0
+short_description: AI-powered finance assistant using verified knowledge base +
+---
+
 ![ICON](project_snap_shot.png)
+---
+![ICON](project_snap2.png)
 
 # 🤖 Lora – AI Finance Assistant
 ### Enterprise-Grade RAG + Smart Knowledge System for Financial Institutions

@@ -15,7 +15,11 @@ short_description: AI-powered finance assistant using verified knowledge base +
 
 # 🤖 Lora – AI Finance Assistant
 ### Enterprise-Grade RAG + Smart Knowledge System for Financial Institutions
+---
+Deployment is done see : Live Web Link - just click link below  
 
+https://huggingface.co/spaces/AI-Solutions-KK/lora-finance-chatbot
+---
 AI-powered finance assistant using verified knowledge base + RAG for accurate loan-related answers. -Lora, an AI finance assistant for Lora Finance company
 
 <div align="center">

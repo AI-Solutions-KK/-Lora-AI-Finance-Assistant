@@ -687,15 +687,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ---
 
-## 📞 Support
-
-- 📧 Email: support@lorafinance.com
-- 💬 Discord: [Join our community](https://discord.gg/lora)
-- 📖 Docs: [Full documentation](https://docs.lorafinance.com)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/lora-finance-chatbot/issues)
-
----
-
 ## 🎯 Use Cases
 
 ### Ideal For:
